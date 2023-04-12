@@ -9,15 +9,6 @@
     <VendorId>com.YOUR COMPANY NAME</VendorId>
     <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
   </AddIn>
-  <AddIn Type="Command">
-    <Text>FizzBuzz_Revit - Command 2</Text>
-    <Description>Some description for FizzBuzz_Revit</Description>
-    <Assembly>FizzBuzz_Revit.dll</Assembly>
-    <FullClassName>FizzBuzz_Revit.Command2</FullClassName>
-    <ClientId>1cfaf447-d114-4b7b-93d5-6056e8bdc2db</ClientId>
-    <VendorId>com.YOUR COMPANY NAME</VendorId>
-    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
-  </AddIn>
 	<AddIn Type="Command">
 		<Text>FizzBuzz_Revit - Module01Challenge</Text>
 		<Description>Some description for FizzBuzz_Revit</Description>
