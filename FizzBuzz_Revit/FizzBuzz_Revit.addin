@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>FizzBuzz_Revit - Command 1</Text>
+    <Description>Some description for FizzBuzz_Revit</Description>
+    <Assembly>FizzBuzz_Revit.dll</Assembly>
+    <FullClassName>FizzBuzz_Revit.Command1</FullClassName>
+    <ClientId>3213b1a3-bf30-4932-b4fb-6eccc9328a39</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>FizzBuzz_Revit - Command 2</Text>
+    <Description>Some description for FizzBuzz_Revit</Description>
+    <Assembly>FizzBuzz_Revit.dll</Assembly>
+    <FullClassName>FizzBuzz_Revit.Command2</FullClassName>
+    <ClientId>1cfaf447-d114-4b7b-93d5-6056e8bdc2db</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+	<AddIn Type="Command">
+		<Text>FizzBuzz_Revit - Module01Challenge</Text>
+		<Description>Some description for FizzBuzz_Revit</Description>
+		<Assembly>FizzBuzz_Revit.dll</Assembly>
+		<FullClassName>FizzBuzz_Revit.Module01Challenge</FullClassName>
+		<ClientId>1cfaf447-d114-4b7b-93d5-6056e8bdc2db</ClientId>
+		<VendorId>com.YOUR COMPANY NAME</VendorId>
+		<VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+	</AddIn>
+  <AddIn Type="Application">
+    <Name>FizzBuzz_Revit</Name>
+    <Assembly>FizzBuzz_Revit.dll</Assembly>
+    <FullClassName>FizzBuzz_Revit.App</FullClassName>
+    <ClientId>cf8ca368-52f2-47b8-b6a7-cc10365fe97a</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
